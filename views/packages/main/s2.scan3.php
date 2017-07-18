@@ -267,7 +267,7 @@ DATABASE -->
 				$lnk = '<a href="maint/repair.php" target="_blank">' . __('repair and optimization', 'duplicator') . '</a>';
 				printf(__('1. Run a %1$s on the table to improve the overall size and performance.', 'duplicator'), $lnk);
 				echo '<br/><br/>';
-				_e('2. Remove post vevisions and stale data from tables.  Tables such as logs, statistical or other non-critical data should be cleared.', 'duplicator');
+				_e('2. Remove post revisions and stale data from tables.  Tables such as logs, statistical or other non-critical data should be cleared.', 'duplicator');
 				echo '<br/><br/>';
 				$lnk = '<a href="?page=duplicator-settings&tab=package" target="_blank">' . __('Enable mysqldump', 'duplicator') . '</a>';
 				printf(__('3. %1$s if this host supports the option.', 'duplicator'), $lnk);
