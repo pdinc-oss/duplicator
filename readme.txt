@@ -1,6 +1,5 @@
 === Duplicator - WordPress Migration Plugin ===
 Contributors: corylamleorg, bobriley
-Donate link: www.lifeinthegrid.com/partner
 Tags: migration, backup, restore, move, migrate, duplicate, transfer, clone, automate, copy site
 Requires at least: 4.0
 Tested up to: 4.9
