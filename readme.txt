@@ -2,7 +2,7 @@
 Contributors: seedprod, smub
 Tags: migration, backup, duplicate, move, migrate, restore, transfer, clone, automate, copy site, migrator
 Requires at least: 4.0
-Tested up to: 6.2
+Tested up to: 6.3
 Requires PHP: 5.3.8
 Stable tag: 1.5.5.1
 License: GPLv2
